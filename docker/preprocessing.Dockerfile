@@ -1,4 +1,4 @@
-FROM python:3.7.3
+FROM python:3.13.0a3
 ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 
 RUN pip --no-cache-dir install --upgrade \
