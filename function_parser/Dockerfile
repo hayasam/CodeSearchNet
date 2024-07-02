@@ -1,4 +1,4 @@
-FROM python:3.7.3
+FROM python:3.11.9
 
 RUN touch /etc/inside-container
 
